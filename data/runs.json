@@ -1,0 +1,100 @@
+[
+  {
+    "id": "35280503-7468-4c2d-bc78-9016d7a3fb77",
+    "distance": 2.4,
+    "duration": 646,
+    "date": "2026-10-06T10:00:00.000Z",
+    "pace": 4.4861
+  },
+  {
+    "id": "run-013",
+    "distance": 4,
+    "duration": 1172,
+    "date": "2026-10-04T07:12:00.000Z",
+    "pace": 4.8833
+  },
+  {
+    "id": "run-012",
+    "distance": 2.4,
+    "duration": 710,
+    "date": "2026-10-02T07:00:00.000Z",
+    "pace": 4.9306
+  },
+  {
+    "id": "run-011",
+    "distance": 10,
+    "duration": 3160,
+    "date": "2026-09-28T06:50:00.000Z",
+    "pace": 5.2667
+  },
+  {
+    "id": "run-010",
+    "distance": 2.4,
+    "duration": 720,
+    "date": "2026-09-25T07:15:00.000Z",
+    "pace": 5
+  },
+  {
+    "id": "run-009",
+    "distance": 21,
+    "duration": 6720,
+    "date": "2026-09-21T06:10:00.000Z",
+    "pace": 5.3333
+  },
+  {
+    "id": "run-008",
+    "distance": 4,
+    "duration": 1215,
+    "date": "2026-09-16T07:05:00.000Z",
+    "pace": 5.0625
+  },
+  {
+    "id": "run-007",
+    "distance": 10,
+    "duration": 3260,
+    "date": "2026-09-11T06:45:00.000Z",
+    "pace": 5.4333
+  },
+  {
+    "id": "run-006",
+    "distance": 2.4,
+    "duration": 738,
+    "date": "2026-09-07T07:20:00.000Z",
+    "pace": 5.125
+  },
+  {
+    "id": "run-005",
+    "distance": 4,
+    "duration": 1230,
+    "date": "2026-09-03T07:00:00.000Z",
+    "pace": 5.125
+  },
+  {
+    "id": "run-004",
+    "distance": 21,
+    "duration": 7110,
+    "date": "2026-08-30T06:15:00.000Z",
+    "pace": 5.6429
+  },
+  {
+    "id": "run-003",
+    "distance": 10,
+    "duration": 3310,
+    "date": "2026-08-26T06:40:00.000Z",
+    "pace": 5.5167
+  },
+  {
+    "id": "run-002",
+    "distance": 2.4,
+    "duration": 756,
+    "date": "2026-08-22T07:05:00.000Z",
+    "pace": 5.25
+  },
+  {
+    "id": "run-001",
+    "distance": 4,
+    "duration": 1240,
+    "date": "2026-08-18T07:10:00.000Z",
+    "pace": 5.1667
+  }
+]
